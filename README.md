@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Dasha
 
 <!--
 **Dasha-Shishkova/Dasha-Shishkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +26,11 @@ Here are some ideas to get you started:
   <th>Используемые библиотеки</th>
   <th>Навыки</th>
 </tr> 
+## Машинное обучение:
+<details open>
+<table>
+<tr>
+  <th>Название проекта</th>
+  <th>Задача проекта</th>
+  <th>Используемые библиотеки</th>
+  <th>Навыки</th>
