@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 # Проекты:
 ## Аналитика:
 <details open>
-  <summary>Список проектов по теме</summary>
+  <summary>Список проектов по разделу</summary>
 <table>
 <tr>
   <th>Название проекта</th>
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
  
  ## Машинное обучение:
 <details open>
-  <summary>Список проектов по теме</summary>
+  <summary>Список проектов по разделу</summary>
 <table>
 <tr>
   <th>Название проекта</th>
