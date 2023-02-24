@@ -33,5 +33,5 @@ Here are some ideas to get you started:
  <tr>
   <td><a href = "https://github.com/Dasha-Shishkova/YPracticum_DS_projects/edit/main/Yandex_music">Исследование предпочтений слушателей Яндекс.Музыки</a></td>
   <td>Сравнение поведения пользователей сервиса Яндекс.Музыка из Москвы и Санкт-Петербурга. Изучение активности пользователей в зависимости от дня недели, а также анализ жанров, преобладающих у слушателей из разных городов.</td>
-  <td></td>
+  <td>Python, Pandas</td>
 </tr>
